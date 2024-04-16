@@ -39,7 +39,7 @@
 
 <!-- CONTACT -->
 ## Contact
-- Please report any issues [here](https://github.com/AchroDev/voidconfig/issues) on GitHub.
+- Please report any issues [here](https://github.com/AchroDev/voidConfig/issues) on GitHub.
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -52,12 +52,12 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/AchroDev/AchroDev.svg?style=for-the-badge
-[contributors-url]: https://github.com/AchroDev/voidconfig/graphs/contributors
+[contributors-url]: https://github.com/AchroDev/voidConfig/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AchroDev/AchroDev.svg?style=for-the-badge
-[forks-url]: https://github.com/AchroDev/voidconfig/network/members
+[forks-url]: https://github.com/AchroDev/voidConfig/network/members
 [stars-shield]: https://img.shields.io/github/stars/AchroDev/AchroDev.svg?style=for-the-badge
-[stars-url]: https://github.com/AchroDev/voidconfig/stargazers
+[stars-url]: https://github.com/AchroDev/voidConfig/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AchroDev/AchroDev.svg?style=for-the-badge
-[issues-url]: https://github.com/AchroDev/voidconfig/issues
+[issues-url]: https://github.com/AchroDev/voidConfig/issues
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
-[license-url]: https://github.com/AchroDev/voidconfig/blob/main/LICENSE.txt
+[license-url]: https://github.com/AchroDev/voidConfig/blob/main/LICENSE.txt
