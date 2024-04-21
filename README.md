@@ -48,7 +48,7 @@
 
 **I am not affiliated with the Void Linux team in any way. This is a personal project.**
 
-**~ This is a work in progress!!**
+**~This is a work in progress!!**
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/AchroDev/AchroDev.svg?style=for-the-badge
